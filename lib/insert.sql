@@ -7,10 +7,10 @@ INSERT INTO subgenres VALUES (2, "slice life");
 INSERT INTO authors VALUES (1, "bobert");
 INSERT INTO authors VALUES (2, "robert");
 
-INSERT INTO books VALUES (1, "here he comes", 2015, 2);
-INSERT INTO books VALUES (2, "no not again", 2015, 1);
-INSERT INTO books VALUES (3, "nooooooooooooo", 2015, 1);
-INSERT INTO books VALUES (4, "yes, that one", 2015, 1);
+INSERT INTO books VALUES (1, "here he comes", 2008, 2);
+INSERT INTO books VALUES (2, "no not again", 2007, 1);
+INSERT INTO books VALUES (3, "nooooooooooooo", 2012, 1);
+INSERT INTO books VALUES (4, "yes, that one", 2014, 1);
 INSERT INTO books VALUES (5, "to be spoked", 2015, 2);
 INSERT INTO books VALUES (6, "economic of prison", 2015, 2);
 
